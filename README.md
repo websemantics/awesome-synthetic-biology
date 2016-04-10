@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Articles
 
 - [A programming language for living cells](http://news.mit.edu/2016/programming-language-living-cells-bacteria-0331): New language lets researchers design novel biological circuits.
+- [Artificial Molecules](http://www.sciencealert.com/scientists-have-discovered-a-way-to-make-their-own-molecules): Scientists have figured out how to make their own molecules from scratch.
 
 ## Software
 
@@ -30,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Gene Design](https://github.com/GeneDesign/GeneDesign): Synthetic biology library in Perl
 - [SBOL](https://github.com/SynBioDex/libSBOLj): Java Library for Synthetic Biology Open Language (SBOL)
+- [Addgene](https://www.addgene.org/): is a nonprofit plasmid repository that archives and distributes high quality plasmids.
 
 ## Contributing
 
