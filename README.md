@@ -1,8 +1,6 @@
 ![marine from moleculamaxima.com](https://moleculamaxima.com/wp-content/uploads/2015/07/marine.png "marine from moleculamaxima.com")
 ![LOGO](img/logo.png)
 
-> Updated: 9 April 2016
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of Synthetic Biology / Genetic Engineering projects, articles and resources. The main idea is that everyone can contribute here, so we can have a central repository of informations about this fascinating subject that we all can keep up-to-date.
