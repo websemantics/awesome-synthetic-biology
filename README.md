@@ -7,15 +7,14 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+
 ## Articles
 
 - [A programming language for living cells](http://news.mit.edu/2016/programming-language-living-cells-bacteria-0331): New language lets researchers design novel biological circuits.
 - [Artificial Molecules](http://www.sciencealert.com/scientists-have-discovered-a-way-to-make-their-own-molecules): Scientists have figured out how to make their own molecules from scratch.
-- 
-*****  [ DNA Data Storage Moves Beyond Moore’s Law ] http://blogs.discovermagazine.com/d-brief/2016/04/08/dna-data-storage/#.Vw1rmnUrLVO
+- [DNA Data Storage](http://blogs.discovermagazine.com/d-brief/2016/04/08/dna-data-storage/#.Vw1rmnUrLVO): DNA Data Storage Moves Beyond Moore’s Law.
+- [Scientific Swap Meet Behind the gene-editing Boom](https://www.technologyreview.com/s/601156/the-scientific-swap-meet-behind-the-gene-editing-boom): The gene-editing technology called CRISPR is probably the fastest-spreading technology in the history of biology.
 
-*****  [ Scientific Swap Meet Behind the gene-editing Boom ]
-https://www.technologyreview.com/s/601156/the-scientific-swap-meet-behind-the-gene-editing-boom/
 
 ## Software
 
@@ -25,12 +24,16 @@ https://www.technologyreview.com/s/601156/the-scientific-swap-meet-behind-the-ge
 - [GENtle2](https://github.com/Synbiota/GENtle2): Web-Based DNA Editor for Synthetic Biology.
 - [Gigabase](http://derk-jan.me/programming-life/): Brogramming for life.
 
+
 ## Programming Languages
 - [The Cello](https://github.com/CIDARLAB/cello): A high-level logic specification written in Verilog, a hardware description language.
 
+
 ## DIY Kits
 
+
 ## Labs
+
 
 ## Resources
 
@@ -38,9 +41,11 @@ https://www.technologyreview.com/s/601156/the-scientific-swap-meet-behind-the-ge
 - [SBOL](https://github.com/SynBioDex/libSBOLj): Java Library for Synthetic Biology Open Language (SBOL)
 - [Addgene](https://www.addgene.org/): is a nonprofit plasmid repository that archives and distributes high quality plasmids.
 
+
 ## Contributing
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/websemantics/awesome-synthetic-biology/blob/master/contributing.md).
+
 
 ## License
 
