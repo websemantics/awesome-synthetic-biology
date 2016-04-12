@@ -11,6 +11,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [A programming language for living cells](http://news.mit.edu/2016/programming-language-living-cells-bacteria-0331): New language lets researchers design novel biological circuits.
 - [Artificial Molecules](http://www.sciencealert.com/scientists-have-discovered-a-way-to-make-their-own-molecules): Scientists have figured out how to make their own molecules from scratch.
+- 
+*****  [ DNA Data Storage Moves Beyond Moore’s Law ] http://blogs.discovermagazine.com/d-brief/2016/04/08/dna-data-storage/#.Vw1rmnUrLVO
+
+*****  [ Scientific Swap Meet Behind the gene-editing Boom ]
+https://www.technologyreview.com/s/601156/the-scientific-swap-meet-behind-the-gene-editing-boom/
 
 ## Software
 
