@@ -7,6 +7,10 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Synthetic Biology Explained
+
+[![Synthetic Biology Explained](img/synthetic-biology-explained.png)](https://youtu.be/rD5uNAMbDaQ)
+
 
 ## Articles
 
@@ -26,13 +30,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ## Programming Languages
+
 - [The Cello](https://github.com/CIDARLAB/cello): A high-level logic specification written in Verilog, a hardware description language.
 
 
-## DIY Kits
+## Interviews
 
-
-## Labs
+- [Autodesk](https://youtu.be/iRO0-fMIW9I/): Synthetic Biology - Inventing the Future.
 
 
 ## Resources
