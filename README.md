@@ -33,6 +33,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [The Cello](https://github.com/CIDARLAB/cello): A high-level logic specification written in Verilog, a hardware description language.
 
+## Hardware
+
+- [BioHackAcademy](https://github.com/biohackacademy): hardware design file repos from [Waag's BioHackAcadamy](http://biohackacademy.github.io/) online(?) course 
 
 ## Interviews
 
