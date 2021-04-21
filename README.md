@@ -22,9 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Software
 
-- [Molecula Maxima](https://moleculamaxima.com/): Synthetic Biology tools for Software Developers.
 - [Cello Cad](http://www.cellocad.org/): Genetic circuit design automation.
-- [Synbiota](https://synbiota.com): is an integrated software and wetware platform that enables you to explore the full potential of synthetic biology.
 - [GENtle2](https://github.com/Synbiota/GENtle2): Web-Based DNA Editor for Synthetic Biology.
 - [Gigabase](http://derk-jan.me/programming-life/): Brogramming for life.
 
