@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Software
 
 - [Cello Cad](http://www.cellocad.org/): Genetic circuit design automation.
+- [(Poly)merase](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
 - [GENtle2](https://github.com/Synbiota/GENtle2): Web-Based DNA Editor for Synthetic Biology.
 - [Gigabase](http://derk-jan.me/programming-life/): Brogramming for life.
 
