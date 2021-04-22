@@ -22,11 +22,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Software
 
 - [Cello Cad](http://www.cellocad.org/): Genetic circuit design automation.
-- [(Poly)merase](https://github.com/TimothyStiles/poly)** - A Go library and command line utility for engineering organisms.
+- [(Poly)merase](https://github.com/TimothyStiles/poly) - A Go library and command line utility for engineering organisms.
 - [GENtle2](https://github.com/Synbiota/GENtle2): Web-Based DNA Editor for Synthetic Biology.
 - [Gigabase](http://derk-jan.me/programming-life/): Brogramming for life.
 - [fpSelection](http://fpselection.org/): fpSelection tool uses a set of algorithms for solving these problems efficiently to design n-color fluorophore panels that are optimized for maximal signal, minimal bleed-through, and other biological parameters for a specific fluorescent measurement instrument.
-- [poly](https://github.com/TimothyStiles/poly): A set of web-scalable commandline tools used for working with DNA.
 
 ## Programming Languages
 
