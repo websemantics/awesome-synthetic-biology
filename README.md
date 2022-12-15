@@ -51,6 +51,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SBOL](https://github.com/SynBioDex/libSBOLj): Java Library for Synthetic Biology Open Language (SBOL)
 - [Addgene](https://www.addgene.org/): is a nonprofit plasmid repository that archives and distributes high quality plasmids.
 - [compsynbio.org](https://compsynbio.org): is the course website for Boston University's "Computational Synthetic Biology for Engineers". Website features complete lecture slide decks, reading assingments and open-sourced project repos.
+- [Awesome AI-based Protein Design](https://github.com/opendilab/awesome-AI-based-protein-design): A collection of research papers for AI-based protein design
+
 
 ## Contributing
 
