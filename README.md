@@ -46,7 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SBML](http://sbml.org/): Standards to describe mathematical models for biological systems. 
 
 ## Resources
-- [Golden Synthetic Biology Cluster](https://golden.co/wiki/Cluster%3A_Synthetic_biology): A cluster of topic pages related to Synthetic Biology
+- [Calder Brief](https://calder-brief.pages.dev/biotech-hub): Biotech news hub (replaces the dead Golden Synthetic Biology Cluster link — Golden shut down, page is 404)
 - [Gene Design](https://github.com/GeneDesign/GeneDesign): Synthetic biology library in Perl
 - [SBOL](https://github.com/SynBioDex/libSBOLj): Java Library for Synthetic Biology Open Language (SBOL)
 - [Addgene](https://www.addgene.org/): is a nonprofit plasmid repository that archives and distributes high quality plasmids.
