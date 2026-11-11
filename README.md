@@ -26,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [GENtle2](https://github.com/Synbiota/GENtle2): Web-Based DNA Editor for Synthetic Biology.
 - [Gigabase](http://derk-jan.me/programming-life/): Brogramming for life.
 - [fpSelection](http://fpselection.org/): fpSelection tool uses a set of algorithms for solving these problems efficiently to design n-color fluorophore panels that are optimized for maximal signal, minimal bleed-through, and other biological parameters for a specific fluorescent measurement instrument.
+- [GenePad](https://genepad.cn): A free, cross-platform gene map editor for molecular cloning - plasmid maps, sequence editing, restriction sites, primers, Sanger trace alignment, and FASTQ viewing.
 
 ## Programming Languages
 
